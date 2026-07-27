@@ -98,3 +98,57 @@ Verify the following:
 - [ ] Git
 - [ ] GitHub
 - [ ] Postman (or Bruno)
+
+Optional
+
+- [ ] Docker Desktop
+
+---
+
+# Deliverables
+
+By the end of Sprint 00 I will have:
+
+- GitHub Project ready
+- All repositories created
+- Handbook structure completed
+- Development environment verified
+- First project issue ready to begin
+
+---
+
+# Definition of Done
+
+Sprint 00 is complete when:
+
+- Every required repository exists.
+- The handbook contains its initial documentation.
+- The GitHub Project is configured.
+- Development tools are working.
+- I am ready to generate the Spring Boot project.
+
+---
+
+# Reflection
+
+What did I learn?
+
+-
+
+What challenged me?
+
+-
+
+Questions for my mentor / ChatGPT
+
+-
+
+Notes
+
+-
+
+---
+
+# Next Sprint
+
+Sprint 01 – Spring Boot Foundations
